@@ -1,0 +1,4 @@
+# environment
+fastapi-env
+
+__pycache__/
